@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-	  <p>Aquí irá una foto de perfil o un logo</p>
+	  <p>Dedicado a Leilani...</p>
       </div>
       <h1>Bienvenido a ditrack.net</h1>
 	<h3>Esta página esta en construcción</h3>
