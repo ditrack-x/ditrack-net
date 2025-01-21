@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-	  <p>Dedicado a Leilani...</p>
+	  <p>Dedicado a Leilani 💖</p>
       </div>
       <h1>Bienvenido a ditrack.net</h1>
 	<h3>Esta página esta en construcción</h3>
@@ -19,7 +19,7 @@ function App() {
         </button> 
       </div>
       <p className="read-the-docs">
-       Sigueme en mi red social princial en Instagram ✨ @ditrack 
+       Sígueme en mi red social principal en Instagram ✨ @ditrack 
       </p>
     </>
   )
