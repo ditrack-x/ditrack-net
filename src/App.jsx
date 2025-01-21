@@ -19,7 +19,7 @@ function App() {
         </button> 
       </div>
       <p className="read-the-docs">
-       Sígueme en mi red social principal en Instagram ✨ @ditrack 
+       Sígueme en mi red social principal en Instagram ✨ @ditrack ✨ 
       </p>
     </>
   )
